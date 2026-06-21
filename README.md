@@ -1,67 +1,177 @@
-# Hi, I'm Srijan Dwivedi! 👋
+<div align="center">
 
-### 🚀 About Me
-- 🎓 **Education:** Computer Science & Engineering student at KIET Group of Institutions (Expected 2028).
-- 💻 **Core Focus:** Full-Stack Web Development, Cross-Platform Mobile Apps, and Cloud Computing.
-- 🤖 **Current Exploration:** Deeply diving into Artificial Intelligence, Agentic AI, and Machine Learning.
-- ⚡ **Cryptographic Safety:** Every commit pushed here is completely signed and GPG-verified.
+# ⚡ Srijan Dwivedi
 
----
+### Full Stack Developer • Flutter Developer • CSE Student • AI Enthusiast
 
-### 🛠️ Tech Stack & Skills
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFD600&center=true&vCenter=true&width=800&lines=Building+Impactful+Digital+Experiences;Flutter+%7C+React+%7C+Node.js;Exploring+AI+%26+Cloud+Technologies;Open+to+Internships+and+Collaborations" />
 
-#### 💻 Programming Languages
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Java" />
-  <img src="https://shields.io++
--00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://shields.io" alt="Dart" />
-  <img src="https://shields.io" alt="SQL" />
-</p>
-
-#### 🌐 Frameworks & Backend Technologies
-<p align="left">
-  <img src="https://shields.io" alt="Flutter" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Node" />
-  <img src="https://shields.io" alt="Express" />
-</p>
-
-#### 🗄️ Database & Cloud Services
-<p align="left">
-  <img src="https://shields.io" alt="AWS" />
-  <img src="https://shields.io" alt="Firebase" />
-  <img src="https://shields.io" alt="MongoDB" />
-  <img src="https://shields.io" alt="MySQL" />
-</p>
-
-#### 🔧 Tools & UI Design
-<p align="left">
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Figma" />
-  <img src="https://shields.io" alt="VS Code" />
-</p>
+</div>
 
 ---
 
-### 🎨 Beyond Coding
-When I am not working on software architectures, I actively spend my time on creative and humanitarian pursuits:
-- ✍️ **Content Writing** and public speaking.
-- 🎵 **Poetry & Song Writing**.
-- 🤝 **Social Work & Volunteering** for community impact projects.
+## 🟨 About Me
+
+```yaml
+Name: Srijan Dwivedi
+Location: India
+Degree: B.Tech Computer Science & Engineering
+College: KIET Group of Institutions
+Graduation: 2028
+Focus Areas:
+  - Full Stack Development
+  - Flutter Development
+  - Artificial Intelligence
+  - Cloud Computing
+  - UI/UX Design
+
+Currently Exploring:
+  - Machine Learning
+  - Agentic AI
+  - AWS Cloud
+```
 
 ---
 
-### 📊 GitHub Analytics
-<p align="left">
-  <img src="https://vercel.app" alt="Srijan's GitHub Stats" height="160" />
-  <img src="https://vercel.app" alt="Top Languages" height="160" />
+## 🖤 Connect With Me
+
+<p align="center">
+<a href="mailto:srijan.17.dw@gmail.com">
+<img src="https://img.shields.io/badge/Email-FFD600?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+<a href="https://github.com/srijandwivedi-27">
+<img src="https://img.shields.io/badge/GitHub-FFD600?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="https://linkedin.com/in/srijan-dwivedi-b38bb2318">
+<img src="https://img.shields.io/badge/LinkedIn-FFD600?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
 </p>
 
 ---
 
-### 📬 Connect with Me
-- **LinkedIn:** [https://://linkedin.com](https://www.linkedin.com/in/srijan-dwivedi-b38bb2318/)
-- **Email:** srijan.17.dw@gmail.com
+# 🟨 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart,javascript,mysql" />
+</p>
+
+### Frameworks & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,firebase,mongodb" />
+</p>
+
+### Tools & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,aws,linux" />
+</p>
+
+---
+
+# 🖤 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=srijandwivedi-27&show_icons=true&theme=highcontrast&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijandwivedi-27&layout=compact&theme=highcontrast&hide_border=true&count_private=true" />
+
+</div>
+
+---
+
+# ⚡ Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=srijandwivedi-27&theme=highcontrast&hide_border=true" />
+
+</div>
+
+---
+
+# 🟨 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srijandwivedi-27&bg_color=000000&color=FFD600&line=FFD600&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+# 🖤 Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=srijandwivedi-27&theme=github_dark" />
+
+</div>
+
+---
+
+# 🖤 Experience
+
+### UNNMESH
+- Founder & President
+  
+### InAmigos Foundation
+- Content Writing Intern
+- Web Development Intern
+
+### UDDESHHYA
+- Member
+- Project In-charge
+
+### Helping Hut
+- Volunteer
+
+---
+
+# 🟨 Core Competencies
+
+```text
+Full Stack Development
+Flutter Development
+Machine Learning
+Artificial Intelligence
+Cloud Computing
+Responsive UI/UX Design
+REST API Integration
+Database Design
+Problem Solving
+Technical Writing
+```
+
+---
+
+# 🖤 Languages
+
+- English
+- Hindi
+
+---
+
+# 🟨 Beyond Code
+
+✍️ Content Writing  
+🎵 Poetry & Song Writing  
+🎤 Public Speaking  
+🎨 Presentation & Design  
+🤝 Social Work & Volunteering  
+🌍 Social Impact Projects  
+
+---
+
+<div align="center">
+
+## ⚡ "Building technology that creates real-world impact."
+
+<img src="https://komarev.com/ghpvc/?username=srijandwivedi-27&label=Profile+Views&color=FFD600&style=for-the-badge" />
+
+</div>
