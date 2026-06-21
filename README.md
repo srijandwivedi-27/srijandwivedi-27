@@ -97,16 +97,6 @@ Open For:
 
 ---
 
-# 📊 Contribution Metrics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srijandwivedi-27&theme=github_dark" />
-
-</div>
-
----
-
 # ⚡ Contribution Streak
 
 <div align="center">
@@ -177,15 +167,14 @@ Open For:
 
 ### InAmigos Foundation
 - Content Writing Intern
-- Web Development Intern
-
-### UDDESHHYA
-- Member
-- Project In-charge
 
 ### Helping Hut
 - Volunteer
 
+### UDDESHHYA
+- Project In-charge
+- Member
+  
 ---
 
 # 🎯 Core Competencies
