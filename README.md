@@ -97,11 +97,11 @@ Open For:
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 Contribution Metrics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=srijandwivedi-27&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srijandwivedi-27&theme=github_dark" />
 
 </div>
 
