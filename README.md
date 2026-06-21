@@ -238,11 +238,9 @@ Technical Writing
 
 ---
 
-# 👀 Profile Visitors
-
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/srijandwivedi-27/count.svg" />
+<img src="https://komarev.com/ghpvc/?username=srijandwivedi-27&label=PROFILE+VIEWS&color=FFD600&style=for-the-badge" />
 
 </div>
 
